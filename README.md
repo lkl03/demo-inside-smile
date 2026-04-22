@@ -1,2 +1,7 @@
-# demo-inside-smile
-Demo web para Inside Smile — diseñada por eterlab.
+# Inside Smile
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
